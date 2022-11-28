@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hassen Amri</h1>
+<br>
 <h3 align="center">Data scientist and Frontend developer at Tekabdev</h3>
-
+<br>
 - 🔭 I’m currently a Data scientist and Frontend Developer(React, React Native) at Tekabdev
 
 - 🌱 I’m currently learning Devops, MLops and Cloud computing
 
 - 📫 How to reach me **hassenamri005@gmail.com**
 
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Find me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/hassenamri005/" target="blank">
     <img align="center" src="assets/linkedin.svg" alt="miguel-pacheco-ruiz" height="30" width="40"/>
@@ -18,6 +18,9 @@
   </a>
   <a href="https://github.com/hassenamri005" target="blank">
     <img align="center" src="assets/github.svg" alt="github" height="40w" width="40" />
+  </a>
+  <a href="https://gitlab.com/hassenamri005" target="blank">
+    <img align="center" src="assets/gitlab.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
 <br />
