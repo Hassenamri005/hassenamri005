@@ -2,6 +2,7 @@
 <br>
 <h3 align="center">Data scientist and Frontend developer at Tekabdev</h3>
 <br>
+
 - 🔭 I’m currently a Data scientist and Frontend Developer(React, React Native) at Tekabdev
 
 - 🌱 I’m currently learning Devops, MLops and Cloud computing
