@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassen Amri</h1>
 <br>
 <h3 align="center">Data scientist and Frontend developer at Tekabdev</h3>
-<br>
 
 - 🔭 I’m currently a Data scientist and Frontend Developer(React, React Native) at Tekabdev
 
