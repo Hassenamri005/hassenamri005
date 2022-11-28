@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
+<h1 align="center">Hi 👋, I'm Hassen Amri</h1>
+<h3 align="center">A Data scientist and Frontend developer at Tekabdev, from Tunisia</h3>
 
 - 🔭 I’m currently a Data scientist and Frontend Developer(React, React Native) at Tekabdev
 
