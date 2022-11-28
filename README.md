@@ -11,13 +11,13 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/hassenamri005/" target="blank">
-    <img align="center" src="assets/contact/linkedin.svg" alt="miguel-pacheco-ruiz" height="30" width="40"/>
+    <img align="center" src="assets/linkedin.svg" alt="miguel-pacheco-ruiz" height="30" width="40"/>
   </a>
   <a href="mailto:hassenamri005@gmail.com" target="blank">
-    <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="assets/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/hassenamri005" target="blank">
-    <img align="center" src="assets/tools/github.svg" alt="github" height="40w" width="40" />
+    <img align="center" src="assets/github.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
 <br />
