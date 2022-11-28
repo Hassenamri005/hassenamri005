@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassen Amri</h1>
-<h3 align="center">A Data scientist and Frontend developer at Tekabdev, from Tunisia</h3>
+<h3 align="center">Data scientist and Frontend developer at Tekabdev</h3>
 
 - 🔭 I’m currently a Data scientist and Frontend Developer(React, React Native) at Tekabdev
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning Devops, MLops and Cloud computing
 
 - 📫 How to reach me **hassenamri005@gmail.com**
 
